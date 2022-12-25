@@ -1,0 +1,15 @@
+CREATE DATABASE databasename;
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+INSERT INTO table2
+SELECT * FROM table1
+WHERE condition;
+ALTER TABLE table_name
+ADD column_name datatype;
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
