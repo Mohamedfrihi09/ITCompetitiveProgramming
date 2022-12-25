@@ -1,0 +1,4 @@
+pwd 
+mkdir  tmp/ITC
+cat >Sharing-is-caring 
+mv Sharing-is-caring ~/tmp/ITC
